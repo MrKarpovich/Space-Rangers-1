@@ -5,9 +5,9 @@
 
 > Работает с оригинальным `Rangers.exe`. Не требует внешних DLL-инжектов.
 
-> Скачать игру: [⬇️ RANGERS1_0.iso](https://github.com/MrKarpovich/Space-Rangers-1/releases/download/v1.0/RANGERS1_0.iso)
+> Скачать игру: [⬇️ Космические Рейнджеры 1 (2002)](https://github.com/MrKarpovich/Space-Rangers-1/releases/download/v1.0/RANGERS1_0.iso)
 
-> Скачать Trainer: [⬇️ Trainer.exe](https://github.com/MrKarpovich/Space-Rangers-1/releases/download/v1.0/Trainer.exe) 
+> Скачать Trainer: [⬇️ Трейнер для изменения параметров предметов](https://github.com/MrKarpovich/Space-Rangers-1/releases/download/v1.0/Trainer.exe) 
 ---
 <img width="847" height="766" alt="image" src="https://github.com/user-attachments/assets/9968c7e8-66a9-436d-b6ce-32d0ee3e16bd" />
 
